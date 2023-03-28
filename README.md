@@ -1,13 +1,15 @@
-# Hi there, I'm Bilgehan - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# yahuu, Im Human - Fjr [GO...][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## Jadi gw adalah seorang pelajar SMK dari jurusan PPLG
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play pool and snooker 🎱.
+- 👨‍💻 Keseharian gw yaa.. ngoding, dan bikin game.
+- 📚 Pastinya yang gw pelajari adalah bahasa pemograman yang berkaitan dengan software.
+- 💪🏼 cita cita sih gak pengen jadi programmer, alias salah masuk jurusan.
+- ⚡ project gw bisa kalian liat sendiri di repo gw, bikin game, beberapa sample website, dan bot wa
+- tambahan: sekarang gw lagi nerusin bikin game tanpa ngoding yapss alias pake software, kalo mau tau gw pake [construct 3][construct.net] biar simple aja.
+  Terus gw juga lagi berkebuming di dunia bot whatsapp dan pastinya gw juga udah punya bot sendiri kalau mau liat bisa langsung chat aja [chatbot][wa.me/6281953994235]
 
 ---
 
