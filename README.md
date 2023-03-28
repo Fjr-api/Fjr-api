@@ -8,7 +8,7 @@
 - 📚 Pastinya yang gw pelajari adalah bahasa pemograman yang berkaitan dengan software.
 - 💪🏼 cita cita sih gak pengen jadi programmer, alias salah masuk jurusan.
 - ⚡ project gw bisa kalian liat sendiri di repo gw, bikin game, beberapa sample website, dan bot wa
-- tambahan: sekarang gw lagi nerusin bikin game tanpa ngoding yapss alias pake software, kalo mau tau gw pake [[construct 3] (https://www.construct.net/en)] biar simple aja.
+- tambahan: sekarang gw lagi nerusin bikin game tanpa ngoding yapss alias pake software, kalo mau tau gw pake [[construct]](https://github.com/Fjr-api/) biar simple aja.
   Terus gw juga lagi berkebuming di dunia bot whatsapp dan pastinya gw juga udah punya bot sendiri kalau mau liat bisa langsung chat aja [wa.me/6281953994235][wensite]
 
 ---
@@ -83,7 +83,6 @@
  
 ---
 
-
- [http://bilgehangecici.site/](https://www.construct.net/en)
+[website]: https://github.com/Fjr-api/
 [instagram]: https://www.instagram.com/bilgehangecici
 [linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
