@@ -8,8 +8,8 @@
 - 📚 Pastinya yang gw pelajari adalah bahasa pemograman yang berkaitan dengan software.
 - 💪🏼 cita cita sih gak pengen jadi programmer, alias salah masuk jurusan.
 - ⚡ project gw bisa kalian liat sendiri di repo gw, bikin game, beberapa sample website, dan bot wa
-- tambahan: sekarang gw lagi nerusin bikin game tanpa ngoding yapss alias pake software, kalo mau tau gw pake [[construct]](https://www.construct.net/en) biar simple aja.
-  Terus gw juga lagi berkebuming di dunia bot whatsapp dan pastinya gw juga udah punya bot sendiri kalau mau liat bisa langsung chat aja [[chatbot]](https://wa.me/6281953994235)
+- tambahan: sekarang gw lagi nerusin bikin game tanpa ngoding yapss alias pake software, kalo mau tau gw pake [[construct 3]](https://www.construct.net/en) biar simple aja.
+  Terus gw juga lagi berkebuming di dunia bot whatsapp dan pastinya gw juga udah punya bot sendiri kalau mau liat bisa langsung chat aja [[chatbot]](https://wa.me/6281953994235) beri perintah .menu atau ketik bot.
 
 ---
 
@@ -17,7 +17,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB?si=4bba02ce958846c9)
 
 ---
 
