@@ -84,6 +84,6 @@
 ---
 
 
-[website]: [http://bilgehangecici.site/](https://www.construct.net/en)
+ [http://bilgehangecici.site/](https://www.construct.net/en)
 [instagram]: https://www.instagram.com/bilgehangecici
 [linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
