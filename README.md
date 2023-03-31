@@ -46,7 +46,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Sublime Text](http://img.shields.io/badge/-Sublime-007ACC?style=flat-square&logo=sublime-text-code&logoColor=ffffff)
 
 <br/>
 
@@ -75,4 +75,4 @@
 
 [website]: https://github.com/Fjr-api/
 [instagram]: https://www.instagram.com/a.fxjrre_
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
+[wa]: https://wa.me/6289692509996
