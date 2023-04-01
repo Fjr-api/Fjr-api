@@ -15,12 +15,13 @@
 
 ### Spotify Playing 🎧
 
+<img align="right" alt="GIF" height="120" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
 
 <p align="center">
   <a href="https://open.spotify.com/user/31qyfdxfzywbd7yb5vqcwmyxwlpm?si=52a367cacc1a4a83" target="_blank"><img src="https://novatorem.bgstatic.vercel.app/api/spotify"/></a>
 </p>
 
-<img align="right" alt="GIF" height="150" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ---
 
