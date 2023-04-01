@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Jadi gw adalah seorang pelajar SMK dari jurusan PPLG
+## Jadi gw adalah seorang pelajar SMK dari jurusan [[PPLG]](https://smkn2-bjm.sch.id/?page_id=1047)
 
 - 👨‍💻 Keseharian gw yaa.. ngoding, dan bikin game.
 - 📚 Pastinya yang gw pelajari adalah bahasa pemograman yang berkaitan dengan software.
@@ -21,7 +21,7 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+<!-- <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/> -->
 
 ### Contact with me 📝
 
