@@ -13,14 +13,14 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
 ### Spotify Playing 🎧
 
-<!-- [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31qyfdxfzywbd7yb5vqcwmyxwlpm?si=52a367cacc1a4a83) -->
+
 <p align="center">
-  <a href="https://open.spotify.com/user/31qyfdxfzywbd7yb5vqcwmyxwlpm?si=52a367cacc1a4a83" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://open.spotify.com/user/31qyfdxfzywbd7yb5vqcwmyxwlpm?si=52a367cacc1a4a83" target="_blank"><img src="https://novatorem.bgstatic.vercel.app/api/spotify"/></a>
 </p>
+
+<img align="right" alt="GIF" height="200" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ---
 
