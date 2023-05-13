@@ -71,6 +71,18 @@
 <br/>
 
 ---
+  <summary>&#127942 <b>GitHub Awards</b>
+</summary>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Fjr-api)
+
+
+<summary>&#127942 <b>GitHub Activity</b>
+</summary>
+
+![Metrics](https://metrics.lecoq.io/Fjr-api?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
+
+---
 
  ### ⭐️ From [Rebot](https://github.com/Fjr-api) ### 
  
