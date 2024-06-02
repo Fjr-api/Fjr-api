@@ -2,14 +2,13 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Jadi gw adalah seorang pelajar SMK dari jurusan [[PPLG]](https://smkn2-bjm.sch.id/?page_id=1047)
+## Jadi gw adalah lulusan SMK dari jurusan [[PPLG]](https://smkn2-bjm.sch.id/?page_id=1047)
 
-- 👨‍💻 Keseharian gw yaa.. ngoding, dan bikin game.
+- 👨‍💻 Keseharian gw >>> ngoding, bikin game(udh gk), development Bot Wa, Nonton anime.
 - 📚 Pastinya yang gw pelajari adalah bahasa pemograman yang berkaitan dengan software.
-- 💪🏼 cita cita sih gak pengen jadi programmer, alias salah masuk jurusan.
-- ⚡ project gw bisa kalian liat sendiri di repo gw, bikin game, beberapa sample website, dan bot wa
-- tambahan: sekarang gw lagi nerusin bikin game tanpa ngoding yapss alias pake software, kalo mau tau gw pake [[construct 3]](https://www.construct.net/en) biar simple aja.
-  Terus gw juga lagi berkebuming di dunia bot whatsapp dan pastinya gw juga udah punya bot sendiri kalau mau liat bisa langsung chat aja [[chatbot]](https://wa.me/6281953994235) beri perintah .menu atau ketik bot.
+- 💪🏼 cita cita gak pengen jadi programmer, alias salah masuk jurusan.
+- ⚡ project gw bisa kalian liat sendiri di repo, bikin game, beberapa sample website, dan bot wa
+- tambahan: sekarang gw lagi nerusin development bot wa, kalau mau nyoba botnya langsung chat aja [[chatbot]](https://wa.me/6281953994235?text=.menu) beri perintah .menu atau ketik bot.
 
 ---
 
