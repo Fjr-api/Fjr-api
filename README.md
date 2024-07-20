@@ -1,7 +1,5 @@
-# yahuu, Im Human - Fjr [GO...][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Fjr-api&color=brightgreen&style=plastic&label=%F0%9F%91%80+Profile+Views">
-</p>
+# yahuu, Im Human - Fjr [GO...][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> <img src="https://komarev.com/ghpvc/?username=Fjr-api&color=brightgreen&style=plastic&label=%F0%9F%91%80+Profile+Views">
+
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## Jadi gw adalah lulusan SMK dari jurusan [[PPLG]](https://smkn2-bjm.sch.id/?page_id=1047)
