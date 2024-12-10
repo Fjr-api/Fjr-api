@@ -8,7 +8,7 @@
 - 📚 Pastinya yang gw pelajari adalah bahasa pemograman yang berkaitan dengan software.
 - 💪🏼 cita cita gak pengen jadi programmer, alias salah masuk jurusan.
 - ⚡ project gw bisa kalian liat sendiri di repo, bikin game, beberapa sample website, dan bot wa
-- tambahan: sekarang gw lagi nerusin development bot wa, kalau mau nyoba botnya langsung chat aja [[chatbot]](https://wa.me/6281953994235?text=.menu) beri perintah .menu atau ketik bot.
+- tambahan: sekarang gw lagi nerusin development bot wa, kalau mau nyoba botnya langsung chat aja [[chatbot]](https://wa.me/6289699872867?text=.menu) beri perintah .menu atau ketik bot.
 
 ---
 
@@ -87,6 +87,6 @@
  
 ---
 
-[website]: https://rebot-studio.vercel.app
+[website]: https://rebot-studio.my.id
 [instagram]: https://www.instagram.com/a.fxjrre_
 [wa]: https://wa.me/6289692509996
