@@ -2,7 +2,7 @@
 
 ## Jadi gw adalah lulusan SMK dari jurusan [[PPLG]](https://smkn2-bjm.sch.id/?page_id=1047)
 
-<img align="right" alt="GIF" height="110px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="50px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 👨‍💻 Keseharian gw >>> ngoding, bikin game(udh gk), development Bot Wa, Nonton anime.
 - 📚 Pastinya yang gw pelajari adalah bahasa pemograman yang berkaitan dengan software.
